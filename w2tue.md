@@ -124,3 +124,6 @@ Common Log File: IP, Datetime, Request, Success/Error message
 Strip disclosing headers
 
 Deciding when to mark cached resources as "stale" is complicated
+  - right way: setting headers 
+  - cheese: unique appending hash to resource name 
+    - state of the industry
